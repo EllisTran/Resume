@@ -4,7 +4,6 @@ body {
 }
 h3, hr {
     color: rgb(22, 64,107);
-    /* font-weight: 700; */
     border-bottom: 4px solid rgb(22, 64, 107);
 }
 
@@ -21,7 +20,7 @@ table {
     border-collapse: separate;
     border-spacing: 0.3em 0.0em;
 }
-h5 {
+h5, h4 {
     margin-bottom: -0.1rem;
 }
 
